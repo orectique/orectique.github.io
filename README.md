@@ -11,10 +11,10 @@ GPA - 4.35
 - Calculus	
 
 **edX Micro-Masters Certificate Program**
-Entrepreneurship
-Indian Institute of Management Bangalore
-Masters Credit Eligible
-https://credentials.edx.org/credentials/2db85502f8dc4202a6ac6d0619c76135/ 
+Entrepreneurship  
+Indian Institute of Management Bangalore  
+Masters Credit Eligible  
+[*Credentials*](https://credentials.edx.org/credentials/2db85502f8dc4202a6ac6d0619c76135/)
 
 **Research internship under Dr. Peter J. Kempthorne(MIT)** 
 March - June 2021
