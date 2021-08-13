@@ -45,7 +45,6 @@ Total: 109
 
 #### Leadership
 
-**Position Name**
 Lead Organizer and Licensee - **TEDxAmritaVishwaVidyapeetham**
 
 
