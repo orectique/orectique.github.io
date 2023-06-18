@@ -1,5 +1,3 @@
-baseURL = 'http://orectique.github.io/paperMod/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Sreehari Pulickamadhom Sreedhar'
-
-theme = 'PaperMod'
+title = 'My New Hugo Site'
