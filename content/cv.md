@@ -4,7 +4,7 @@
 
 ## Objective
 
-- Self-motivated and objective student of Data Science focused on policy and data analysis. Passionate creator and communicator with experience leading teams in both disciplines. Proven track record of innovation and improving efficiency.
+Self-motivated and objective student of Data Science focused on policy and data analysis. Passionate creator and communicator with experience leading teams in both disciplines. Proven track record of innovation and improving efficiency.
 
 ## Education
 
