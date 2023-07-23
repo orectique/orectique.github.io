@@ -64,7 +64,7 @@ Self-motivated and objective student of Data Science focused on policy and data 
 
 ## Experience
 
-### Research Assistant | QuantEcon, ANU | July 2021 – Present
+### Research Assistant | QuantEcon, ANU | July 2023 – Present
 
 - Assisted in the review and development of QuantEcon lectures
 
