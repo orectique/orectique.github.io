@@ -19,7 +19,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Sreehari P Sreedhar
+  title: Sreehari Pulickamadhom Sreedhar
   description: "Sreehari P Sreedhar's personal website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -63,8 +63,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Sreehari Pulickamadhom Sreedhar
-    subtitle: "Data analyst with a focus on socioeconomic simulations"
-    imageUrl: "../assets/portrait.jpg"
+    subtitle: "Policy analyst with a focus on socioeconomic simulations"
+    imageUrl: "../assets/IMG_7769_preferred.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: The Picture of Sreehari P Sreedhar
@@ -112,6 +112,7 @@ menu:
       name: Curriculum vitae
       url: /cv/
       weight: 10
+      
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
