@@ -11,8 +11,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -81,10 +79,6 @@ params:
       url: "https://www.linkedin.com/in/sreehari-pulickamadhom-sreedhar-860b76204/"
     - name: email
       url: "mailto:spulickamadhom@gmail.com"
-
-  analytics:
-    google:
-      SiteVerificationTag: "G-Y5PV0LFC5E"
 
   cover:
     hidden: true # hide everywhere but not in structured data
