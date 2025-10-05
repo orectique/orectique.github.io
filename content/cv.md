@@ -1,109 +1,271 @@
-# Sreehari Pulickamadhom Sreedhar
+::: center
+**Policy Analysis and Economics**
+:::
 
-[LinkedIn](https://www.linkedin.com/in/sreehari-pulickamadhom-sreedhar-860b76204/) | spulickamadhom@gmail.com
+::: center
+  --------------- ---------------------------------------------- ---------------
+   +61 450087293   spulickamadhom@gmail.com u7322074@anu.edu.au   Canberra, ACT
+  --------------- ---------------------------------------------- ---------------
 
-## Objective
+\
 
-I stand at the intersection of rigorous policy analysis and data science, employing intricate microsimulation models to explore variations human behavior in response to policy interventions. My academic pursuits have encompassed dissecting the distributional effects of Australian tax cuts and mapping the spatial scope of social unrest, revealing patterns and truths embedded within complex datasets. Through research work at Mandala Partners and QuantEcon, I've honed my analytical skills and cultivated a collaborative spirit. Now, with a proven track record of leading data analysis teams, I seek to apply my expertise to pressing policy challenges at think tanks, leveraging data to inform actionable strategies.
+  ------------------------------------------------------------------------ ------------------------------------------------------
+   [in/sreehari-sreedhar](https://www.linkedin.com/in/sreehari-sreedhar/)   [github.com/orectique](https://github.com/orectique)
+  ------------------------------------------------------------------------ ------------------------------------------------------
+:::
 
-## Experience
+# Profile
 
-### Research Intern | Mandala Partners, Canberra | Sept 2023 – Dec 2023
+Data-driven policy analyst with expertise in microsimulation and
+economic modeling, focused on delivering actionable insights for complex
+policy challenges.
 
-- Engaged in comparative policy research to study the impact of federalism across Australian states and Territories.
-- Engineered estimates of indicators of quality of life, education, and healthcare through multifactor analyses and statistical modeling.
+# Areas of Expertise
 
-### Research Assistant | QuantEcon, ANU | July 2023 – Dec 2023
+Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation
+and Mediation - Statistical Analysis and Modelling - Machine Learning
 
-- Explored the use of high-performance computing and dynamic programming approaches to classical economics problems.
-- Assisted in the development and review of material in the QuantEcon lecture series authored by Prof. Thomas Sargeant (NYU) and Prof. John Stachurski (ANU).
-- Conducted a QuantEcon Lunch Workshop on the use of multidimensional weighting and constrained sampling in the context of spatial microsimulations of the Australian taxed population.
+# Professional Experience
 
+  ------------------------------------------------------------------------------------------------------------
+  **Modeller - Junior Policy Advisor,**  *[(Australian Local Government Association)](https://alga.com.au/)*
+  ------------------------------------------------------------------------------------------------------------
 
-### Lead Data Analyst | Dept. of Food and Nutrition, Amrita Vishwa Vidyapeetham | Oct 2021 – May 2022
+  ----------------------------------------
+  **Canberra, ACT**  *06/2024 ‐ Present*
+  ----------------------------------------
 
-- Analyzed sociological data from survey conducted as part of a joint project between the institution and Dept. of Science and Technology, Government of India.
-- Developed analytical tool to summarize and analyze semi-structured geospatial data – designed to be intuitive for use by nontechnical social scientists
+&
 
-### Research Intern | Dr. Peter J. Kempthorne, MIT | April 2021 – June 2021
+- Developed a centralized knowledge base of data at the council level,
+  streamlining policy analysis for local governments.
 
-- Engaged in methodic analysis and aggregation of ACLED social unrest data to study spatial distributional variation of protest frequency.
-- Introduced a new measure of unrest severity using measures of perceived violence.
-- Proposed novel way to map and compare periods of social unrest using latent measures of severity and intensity.
+- Designed and maintained small-area microsimulation models, enabling
+  estimation of LGA level impacts of various policies with greater
+  precision.
 
-## Education
+- Delivered rapid, targeted analyses for Policy Directors on welfare,
+  climate adaptation, and Commonwealth grants, supporting strategic
+  decision-making.
 
-### Master of International and Development Economics | 2024 - 2025 | Crawford School of Public Policy, ANU, Canberra
+&
 
-Topics currently covered
-- Microeconomics and policy
-- Game theory and competitive systems
-- Optimization of static and dynamic systems
-- Issues in development policy
+  ----------------------------------------------------------------------------
+  **Research Intern,**  *[(Mandala Partners)](https://mandalapartners.com/)*
+  ----------------------------------------------------------------------------
 
-### Bachelor of Applied Data Analytics | Feb 2023 - Dec 2023 | The Australian National University, Canberra
+  ----------------------------------------
+  **Canberra, ACT**  *09/2023 ‐ 12/2023*
+  ----------------------------------------
 
-- Built microsimulation models to analyze spatial distribution of impacts of Stage-3 tax cuts across Australia
-- Explored the classification and behavior of suspected state-backed troll accounts on Reddit through the use of state-of-the-art neural network classifiers and graph analysis.
-- SET4ANU mentor for incoming first year students at ANU	
-- GPA: 5.875/7 – Semester 1 & 2
+&
 
-### Int. MSc. Data Science | 2020 - 2022 | Amrita Vishwa Vidyapeetham, Coimbatore
+- Synthesized comparative policy research to clarify the impact of
+  federalism across Australian states and territories, informing client
+  recommendations.
 
-- Studied mathematical and statistical foundations of data science
-- Gained hands on experience in the use of statistical software and Python
-- Explored logical approaches to database design and the mathematical foundations of cryptography
-- GPA: 8.55/10 – Semester 1- 5
+- Engineered robust indicators for quality of life, education, and
+  healthcare using multifactor statistical modeling, enhancing the depth
+  of policy analysis.
 
-### Data, Economics, and Developmental Policy| Spring 2022 | MIT
+&
 
-- MicroMasters program from Dept. of Economics, MIT and Abdul Latif Jameel Poverty Action Lab (J-PAL)
-- Learnt to apply econometric methods to analyze data, evaluate, and design development policy
-- Gained experience in R and Stata
+  ----------------------------------------------------------------------
+  **Research Assistant,**  *[(QuantEcon@ANU)](https://quantecon.org/)*
+  ----------------------------------------------------------------------
 
-### International Political Economy of Decarbonization | Summer 2022 | Harvard DCE
+  ----------------------------------------
+  **Canberra, ACT**  *07/2023 ‐ 12/2023*
+  ----------------------------------------
 
-- Gained experience in Memo writing and negotiating at summits.
-- Learnt to analyze the impact of macroeconomic policy on the economy and environment
+&
 
-## Areas of Technical Interest
+- Applied high-performance computing and dynamic programming to solve
+  classical economics problems, increasing research efficiency and
+  accuracy.
 
-- Agent-Based Modelling
-- Policy Development
-- Negotiation and Mediation
-- Statistical Analysis and Modelling
+- Co-authored and reviewed QuantEcon lecture materials with leading
+  professors, elevating the quality and reach of the educational
+  platform.
 
-## Tools and Competencies
+- Led a workshop on multidimensional weighting and constrained sampling
+  in the context of spatial microsimulation, boosting participant
+  proficiency in economic modeling.
 
-- Python, MATLAB, R, Julia, STATA, SQL
-- Simulations and Modelling
-- Data Wrangling and Mining, Pipelining and Management, Visualization and Communication
+&
+
+  -----------------------------------------------------------------------------------
+  **Lead Data Analyst,**  *[(Amrita Vishwa Vidyapeetham)](https://www.amrita.edu/)*
+  -----------------------------------------------------------------------------------
+
+  -----------------------------------------
+  **Coimbatore, TN**  *10/2021 ‐ 05/2022*
+  -----------------------------------------
+
+&
+
+- Analyzed large-scale sociological survey data for a joint
+  government-university project, delivering actionable findings for
+  project recommendations.
+
+- Built an intuitive geospatial data analysis tool for non-technical
+  social scientists, increasing adoption and usability among field
+  researchers.
+
+- Developed and delivered workshops on ethical data usage and
+  deidentification, improving data integrity and compliance across
+  research teams.
+
+&
+
+  ----------------------------------------------------------------------------------------------------------------
+  **Research Intern,**  *[(Dr. Peter J. Kempthorne, MIT)](https://math.mit.edu/directory/profile.html?pid=1521)*
+  ----------------------------------------------------------------------------------------------------------------
+
+  ---------------------------------
+  **Remote**  *04/2021 ‐ 06/2021*
+  ---------------------------------
+
+&
+
+- Conducted spatial analysis and aggregation of ACLED social unrest
+  data, revealing key trends in protest frequency for academic
+  publication.
+
+- Developed new metrics for unrest severity using perceived violence and
+  latent intensity, enabling more nuanced mapping and comparison of
+  unrest periods.
+
+- Co-authored paper accepted for presentation at Joint Statistical
+  Meetings 2022.
+
+&
+
+# Education
+
+  --------------------------------------------------------------------------------------------------------
+  **Master of Intl. and Dev. Economics,**  *[(Australian National University)](https://www.anu.edu.au/)*
+  --------------------------------------------------------------------------------------------------------
+
+  ----------------------------------------
+  **Canberra, ACT**  *02/2024 ‐ Present*
+  ----------------------------------------
+
+& Relevant topics: Microeconomic policy - Econometrics and modelling -
+Game theory and competition - Static and dynamic optimization -
+Development policy
+
+- Developed and implemented accelerated CGE models with state-of-the-art
+  optimizers, enhancing the analysis of complex economic scenarios.
+
+- Applied experimental and quasi-experimental methods in coursework and
+  research, strengthening proficiency in policy evaluation and impact
+  assessment.
+
+&
+
+  --------------------------------------------------------------------------------------------------------
+  **Bachelor of Applied Data Analytics,**  *[(Australian National University)](https://www.anu.edu.au/)*
+  --------------------------------------------------------------------------------------------------------
+
+  ----------------------------------------
+  **Canberra, ACT**  *02/2023 ‐ 12/2023*
+  ----------------------------------------
+
+& Relevant topics: Demographic cohort analysis - Regression modelling -
+Social network analysis - Data wrangling and mining
+
+- Built and validated microsimulation models to analyze the spatial
+  distribution of Stage-3 tax cut impacts, providing insights into
+  regional disparities.
+
+- Used neural network classifiers and graph analysis to study suspected
+  state-backed troll accounts on Reddit, contributing to the
+  understanding of online manipulation.
+
+&
+
+  ------------------------------------------------------------------------------------------------
+  **Mediation and Conflict Management,**  *[(Harvard Law School)](https://www.pon.harvard.edu/)*
+  ------------------------------------------------------------------------------------------------
+
+  ---------------------------
+  **Remote**  *Spring 2022*
+  ---------------------------
+
+& Relevant topics: Negotiation and mediation - Conflict resolution
+
+- Engaged in classroom simulations and case study analyses, developing
+  effective negotiation and conflict resolution skills.
+
+&
+
+  -------------------------------------------------------------------------------------------------------------------
+  **Data, Economics, and Development Policy - MicroMasters,**  *[(MIT - JPAL)](https://micromasters.mit.edu/dedp/)*
+  -------------------------------------------------------------------------------------------------------------------
+
+  ---------------------------------
+  **Remote**  *02/2022 - 08/2022*
+  ---------------------------------
+
+& Relevant topics: Microeconomics - Econometrics - Qualitative
+analysis - Survey design - Development policy - Research ethics &
+
+- Completed rigorous coursework in microeconomics, econometrics, and
+  development policy, with a focus on evidence-based approaches to
+  global challenges.
+
+- Applied quantitative and qualitative methods to analyze real-world
+  development interventions, emphasizing research ethics and effective
+  survey design.
+
+  ------------------------------------------------------------------------------------------
+  **Integ. MSc. Data Science,**  *[(Amrita Vishwa Vidyapeetham)](https://www.amrita.edu/)*
+  ------------------------------------------------------------------------------------------
+
+  -----------------------------------------
+  **Coimbatore, TN**  *08/2020 ‐ 12/2022*
+  -----------------------------------------
+
+& Relevant topics: Statistical modelling - Database management and
+design - Cryptography - Optimization - Real analysis - Linear algebra
+
+- Developed a strong foundation in statistical modeling, database
+  management, and optimization, applying these skills to real-world data
+  science projects.
+
+- Collaborated on interdisciplinary research, leveraging advanced
+  analytical techniques to address complex problems in cryptography and
+  data analysis.
+
+- Transferred to ANU for a more policy-focused curriculum, aligning
+  academic trajectory with career goals in policy analysis.
+
+&
+
+# Other Courses
+
+- International Political Economy of Decarbonization - Harvard DCE
+
+- Monetary Policy Analysis and Forecasting -- International Monetary
+  Fund (IMFx)
+
+- Effective Leadership through Emotional Intelligence -- University of
+  Oxford (Online)
+
+- MicroMasters in Entrepreneurship -- Indian Institute of Management,
+  Bangalore (IIMBx)
+
+# Skills
+
+- **Languages/Frameworks:** Python, Julia, MATLAB, R, Stata, Power BI,
+  Excel
+
+- Simulation, Econometric Modelling, and Analysis
+
+- Data Wrangling and Mining, Pipelining and Management, Visualization
+  and Communication
+
 - Neural Networks and Deep Learning
+
 - Natural Language Processing
-
-## Other Technical Qualifications
-
-- Monetary Policy Analysis and Forecasting – International Monetary Fund (IMFx)
-- Mediation and Conflict Management – Program on Negotiation, Harvard Law School
-- Effective Leadership through Emotional Intelligence – University of Oxford (Online)
-- Entrepreneurship – Indian Institute of Management, Bangalore (IIMBx)
-
-## Achievements
-
-- Paper on social unrest (joint with Dr. Peter J. Kempthorne) accepted for presentation at Joint Statistical
-    Meetings, Washington D.C. 2022.
-- Volunteered at Cameroon Association of Active Youths to propose employment models for local
-    communities
-
-## Personal Details
-
-- Date of Birth: 8th June 2002
-- Language Proficiency:
-    - English: Native
-    - French: Professional
-    - Malayalam, Tamil: Fluent
-- Hobbies / Interests: Cross-country mountain biking, Trekking and Backpacking, Critical appreciation of
-    poetry, literature, art
-- Contact Address: 168 Daley Rd, Acton, ACT 2601, Australia
-
-
