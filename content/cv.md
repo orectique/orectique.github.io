@@ -26,7 +26,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 # Professional Experience
 
   
-  **Modeller - Junior Policy Advisor,**  *[Australian Local Government Association](https://alga.com.au/)*
+  ## Modeller - Junior Policy Advisor,  *[Australian Local Government Association](https://alga.com.au/)*
   
 
   
@@ -44,7 +44,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Research Intern,**  *[Mandala Partners](https://mandalapartners.com/)*
+  ## Research Intern,  *[Mandala Partners](https://mandalapartners.com/)*
   
 
   
@@ -60,7 +60,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Research Assistant,**  *[QuantEcon@ANU](https://quantecon.org/)*
+  ## Research Assistant,  *[QuantEcon@ANU](https://quantecon.org/)*
   
 
   
@@ -78,7 +78,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Lead Data Analyst,**  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
+  ## Lead Data Analyst,  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
   
 
   
@@ -96,7 +96,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Research Intern,**  *[Dr. Peter J. Kempthorne, MIT](https://math.mit.edu/directory/profile.html?pid=1521)*
+  ## Research Intern,  *[Dr. Peter J. Kempthorne, MIT](https://math.mit.edu/directory/profile.html?pid=1521)*
   
 
   
@@ -116,7 +116,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 # Education
 
   
-  **Master of Intl. and Dev. Economics,**  *[Australian National University](https://www.anu.edu.au/)*
+  ## Master of Intl. and Dev. Economics,  *[Australian National University](https://www.anu.edu.au/)*
   
 
   
@@ -132,7 +132,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Bachelor of Applied Data Analytics,**  *[Australian National University](https://www.anu.edu.au/)*
+  ## Bachelor of Applied Data Analytics,  *[Australian National University](https://www.anu.edu.au/)*
   
 
   
@@ -148,7 +148,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Mediation and Conflict Management,**  *[Harvard Law School](https://www.pon.harvard.edu/)*
+  ## Mediation and Conflict Management,  *[Harvard Law School](https://www.pon.harvard.edu/)*
   
 
   
@@ -162,7 +162,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
   
-  **Data, Economics, and Development Policy - MicroMasters,**  *[MIT - JPAL](https://micromasters.mit.edu/dedp/)*
+  ## Data, Economics, and Development Policy - MicroMasters,  *[MIT - JPAL](https://micromasters.mit.edu/dedp/)*
   
 
   
@@ -176,7 +176,7 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 - Applied quantitative and qualitative methods to analyze real-world development interventions, emphasizing research ethics and effective survey design.
 
   
-  **Integ. MSc. Data Science,**  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
+  ## Integ. MSc. Data Science,  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
   
 
   
