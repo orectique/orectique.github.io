@@ -4,15 +4,15 @@
 
 
 
-  --------------- ---------------------------------------------- ---------------
+    
    +61 450087293   spulickamadhom@gmail.com u7322074@anu.edu.au   Canberra, ACT
-  --------------- ---------------------------------------------- ---------------
+    
 
 
 
-  ------------------------------------------------------------------------ ------------------------------------------------------
+   
    [in/sreehari-sreedhar](https://www.linkedin.com/in/sreehari-sreedhar/)   [github.com/orectique](https://github.com/orectique)
-  ------------------------------------------------------------------------ ------------------------------------------------------
+   
 
 
 # Profile
@@ -25,13 +25,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 # Professional Experience
 
-  ----------------------------------------------------------------------------------------------------------
+  
   **Modeller - Junior Policy Advisor,**  *[Australian Local Government Association](https://alga.com.au/)*
-  ----------------------------------------------------------------------------------------------------------
+  
 
-  --------------------------------------
+  
   **Canberra, ACT**  *06/2024 ‐ 10/25*
-  --------------------------------------
+  
 
 
 
@@ -43,13 +43,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  --------------------------------------------------------------------------
+  
   **Research Intern,**  *[Mandala Partners](https://mandalapartners.com/)*
-  --------------------------------------------------------------------------
+  
 
-  ----------------------------------------
+  
   **Canberra, ACT**  *09/2023 ‐ 12/2023*
-  ----------------------------------------
+  
 
 
 
@@ -59,13 +59,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  --------------------------------------------------------------------
+  
   **Research Assistant,**  *[QuantEcon@ANU](https://quantecon.org/)*
-  --------------------------------------------------------------------
+  
 
-  ----------------------------------------
+  
   **Canberra, ACT**  *07/2023 ‐ 12/2023*
-  ----------------------------------------
+  
 
 
 
@@ -77,13 +77,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  ---------------------------------------------------------------------------------
+  
   **Lead Data Analyst,**  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
-  ---------------------------------------------------------------------------------
+  
 
-  -----------------------------------------
+  
   **Coimbatore, TN**  *10/2021 ‐ 05/2022*
-  -----------------------------------------
+  
 
 
 
@@ -95,13 +95,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  --------------------------------------------------------------------------------------------------------------
+  
   **Research Intern,**  *[Dr. Peter J. Kempthorne, MIT](https://math.mit.edu/directory/profile.html?pid=1521)*
-  --------------------------------------------------------------------------------------------------------------
+  
 
-  ---------------------------------
+  
   **Remote**  *04/2021 ‐ 06/2021*
-  ---------------------------------
+  
 
 
 
@@ -115,13 +115,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 # Education
 
-  ------------------------------------------------------------------------------------------------------
+  
   **Master of Intl. and Dev. Economics,**  *[Australian National University](https://www.anu.edu.au/)*
-  ------------------------------------------------------------------------------------------------------
+  
 
-  ----------------------------------------
+  
   **Canberra, ACT**  *02/2024 ‐ Present*
-  ----------------------------------------
+  
 
  Relevant topics: Microeconomic policy - Econometrics and modelling - Game theory and competition - Static and dynamic optimization - Development policy
 
@@ -131,13 +131,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  ------------------------------------------------------------------------------------------------------
+  
   **Bachelor of Applied Data Analytics,**  *[Australian National University](https://www.anu.edu.au/)*
-  ------------------------------------------------------------------------------------------------------
+  
 
-  ----------------------------------------
+  
   **Canberra, ACT**  *02/2023 ‐ 12/2023*
-  ----------------------------------------
+  
 
  Relevant topics: Demographic cohort analysis - Regression modelling - Social network analysis - Data wrangling and mining
 
@@ -147,13 +147,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  ----------------------------------------------------------------------------------------------
+  
   **Mediation and Conflict Management,**  *[Harvard Law School](https://www.pon.harvard.edu/)*
-  ----------------------------------------------------------------------------------------------
+  
 
-  ---------------------------
+  
   **Remote**  *Spring 2022*
-  ---------------------------
+  
 
  Relevant topics: Negotiation and mediation - Conflict resolution
 
@@ -161,13 +161,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 
 
-  -----------------------------------------------------------------------------------------------------------------
+  
   **Data, Economics, and Development Policy - MicroMasters,**  *[MIT - JPAL](https://micromasters.mit.edu/dedp/)*
-  -----------------------------------------------------------------------------------------------------------------
+  
 
-  ---------------------------------
+  
   **Remote**  *02/2022 - 08/2022*
-  ---------------------------------
+  
 
  Relevant topics: Microeconomics - Econometrics - Qualitative analysis - Survey design - Development policy - Research ethics 
 
@@ -175,13 +175,13 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 - Applied quantitative and qualitative methods to analyze real-world development interventions, emphasizing research ethics and effective survey design.
 
-  ----------------------------------------------------------------------------------------
+  
   **Integ. MSc. Data Science,**  *[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)*
-  ----------------------------------------------------------------------------------------
+  
 
-  -----------------------------------------
+  
   **Coimbatore, TN**  *08/2020 ‐ 12/2022*
-  -----------------------------------------
+  
 
  Relevant topics: Statistical modelling - Database management and design - Cryptography - Optimization - Real analysis - Linear algebra
 
@@ -197,11 +197,11 @@ Agent-Based Modelling - Policy Analysis - Microsimulation - Negotiation and Medi
 
 - International Political Economy of Decarbonization - Harvard DCE
 
-- Monetary Policy Analysis and Forecasting -- International Monetary Fund (IMFx)
+- Monetary Policy Analysis and Forecasting  International Monetary Fund (IMFx)
 
-- Effective Leadership through Emotional Intelligence -- University of Oxford (Online)
+- Effective Leadership through Emotional Intelligence  University of Oxford (Online)
 
-- MicroMasters in Entrepreneurship -- Indian Institute of Management, Bangalore (IIMBx)
+- MicroMasters in Entrepreneurship  Indian Institute of Management, Bangalore (IIMBx)
 
 # Skills
 
